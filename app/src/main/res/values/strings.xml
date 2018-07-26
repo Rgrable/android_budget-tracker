@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Budget Tracker</string>
+    <string name="title_login">Login</string>
+    <string name="title_create_budget">Create Budget</string>
+    <string name="title_create_budget_item">Create Budget Item</string>
+    <string name="placeholder_username">Username</string>
+    <string name="placeholder_password">Password</string>
+    <string name="placeholder_goal">Goal</string>
+    <string name="placeholder_price">Price</string>
+    <string name="placeholder_name">Name</string>
+    <string name="placeholder_category">Category</string>
+    <string name="button_login">Login</string>
+    <string name="button_create">Create</string>
+    <string name="dollar">$%1$f</string>
+</resources>
